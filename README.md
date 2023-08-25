@@ -1,27 +1,33 @@
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<p align="center" style="font-size: 35px">
-Hola 👋, mi nombre es em
-</p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block"><b>Hola</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , <b>soy Em Dev </b></h1></summary>
+  </ul>
+</div>
 
-<p align="center">
-<img width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-</p>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ### Freelance full-stack Web & Android
 
-![image](../Descargas/em.png)
-
 ![GitHub Followers](https://img.shields.io/github/followers/EmDevCode?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/EmDevCode?style=social)
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mi**
 
 Una adolescencia muy divertida me mostró que el aprendizaje de manera autodidacta era una de las mejores habilidades que podía desarrollar, aunado a un gusto por la tecnología, la historia mundial y el misterio me han conducido por un camino lleno de curiosidades y descubrimientos impresionantes que me han llenado de placer, entre uno de ellos hacer una de las cosas que más me gustan que es programar.
 
 Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
 
-## Tecnologías:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias</b>
 
  <div align="center">
  <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
@@ -50,10 +56,9 @@ Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   <br>
 </p>
+</div >
 
-## Encuéntrame en:
+## <b> Conectate con migo..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-## Contacto y apoyo:
-
-[![Email](<https://img.shields.io/badge/em.tech.mx@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010>)](mailto:em.tech.mx@gmail.com) -->
+[![Email](<https://img.shields.io/badge/em.tech.mx@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010>)](mailto:em.tech.mx@gmail.com)
 </br>
